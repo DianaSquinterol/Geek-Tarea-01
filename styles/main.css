@@ -1,0 +1,59 @@
+body{
+    width: auto;
+    background-color:mediumpurple ;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5px;    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    width:90%;
+    margin: auto;
+    text-align: left;
+
+}
+
+.link{
+    width: auto;
+    text-align: center;
+}
+
+img{
+    width:180px;
+    height: 150px;    
+    font-weight: 200;
+}
+
+.tarjeta-menu{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer{
+    background-color: darkgrey;
+    text-align: center;
+    bottom: 0;
+    width:100%
+}
+
+.link{
+    float: inline-start;
+    padding-right: 15px;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.ofrecer{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(90, 88, 89);
+}
